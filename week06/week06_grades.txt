@@ -1,0 +1,20 @@
+importing Jupyter notebook from week06_assignment.ipynb
+    Q#        Your Response       Correct Answer   Feedback Points
+  26.1                False                False    CORRECT   0.33
+  26.2                    A                    A    CORRECT   0.33
+  26.3                    C                    A  INCORRECT   0.00
+  27.1                    D                    D    CORRECT   0.33
+  27.2           ['A', 'B'] ['A', 'B', 'C', 'D']  INCORRECT   0.00
+  27.3                    B                    B    CORRECT   0.33
+  28.1 ['A', 'B', 'C', 'D'] ['A', 'B', 'C', 'D']    CORRECT   0.33
+  28.2                    B                    B    CORRECT   0.33
+  28.3                    B                    B    CORRECT   0.33
+  29.1                    A                    A    CORRECT   0.33
+  29.2                    D                    D    CORRECT   0.33
+  29.3                False                False    CORRECT   0.33
+  30.1                    3                    3    CORRECT   1.67
+  30.2 [['Jason Argonaut', 'PENICILLIN G', 'Hives'], ['Jason Argonaut', 'SHELLFISH-DERIVED PRODUCTS', 'Itching'], ['Jason Argonaut', 'STRAWBERRY', 'Anaphylaxis']] [['Jason Argonaut', 'PENICILLIN G', 'Hives'], ['Jason Argonaut', 'SHELLFISH-DERIVED PRODUCTS', 'Itching'], ['Jason Argonaut', 'STRAWBERRY', 'Anaphylaxis']]    CORRECT   1.67
+  30.3          Anaphylaxis          Anaphylaxis    CORRECT   1.67
+
+Scored 8.33 out of 9.0: 92.59%
+
