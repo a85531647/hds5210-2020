@@ -1,0 +1,12 @@
+Week 07 Feedback
+
+31.1: OK 
+31.2: OK 
+32.1: OK 
+32.2: OK 
+32.3: -0.5
+
+Overall: 4.5/5
+
+Comments: Since HTML is a form of XML, the lxml library can be used to parse HTML, too.
+
