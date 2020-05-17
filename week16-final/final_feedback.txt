@@ -1,0 +1,23 @@
+PART 1:
+Notice that in your code, you did a read_html from CENSUS_INFO, but the function parameter is the variable named url.  Your code would always read from CENSUS_INFO even if a different url was provided as the parameter.  -1
+
+PART 2:
+Good
+
+PART 3:
+Good
+
+PART 4:
+Good
+
+PART 5:
+Good
+
+PART 6:
+Nice observations
+
+
+TOTAL: 49/50
+
+
+
